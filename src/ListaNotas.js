@@ -95,7 +95,7 @@ function ListaNotas() {
                             nota={t.nota} 
                             titulo={t.titulo} 
                             importante={t.importante} 
-                            rotation={t.rotation} // Pasar la rotación a ItemNota
+                            rotation={t.rotation}
                         />
                     </div>
                 ))}
