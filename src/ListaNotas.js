@@ -73,7 +73,7 @@ function ListaNotas() {
                     <input ref={tituloRef} className="form-control" placeholder="Título"></input>
                 </div>
                 <div className="col-md-4 col-12 mb-3">
-                    <input ref={notaRef} className="form-control" placeholder="Descripción - este campo es obligatorio" required></input>
+                    <input ref={notaRef} className="form-control" placeholder="Descripción" required></input>
                 </div>
                 <div className="col-md-2 col-6 mb-3">
                     <div className="form-check">
