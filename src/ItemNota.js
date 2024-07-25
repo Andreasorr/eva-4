@@ -1,7 +1,7 @@
 import React from "react";
 
 //agrega notas
-//linea 10 aplica rotación
+//linea 8 aplica rotación
 function ItemNota(props) {
     return (
         <div className="col-3">
